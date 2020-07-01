@@ -8,3 +8,9 @@ A simple toy environment is designed where an agent's goal is to go from any giv
 4. Prefer moving forward
 
 Four separate modules are trained independently and the resultant actions from each module are merged using by simply weighting them. 
+
+Below is two images showing each individual policy, then their weighted policy.
+
+![Image 1](images/modulepaths.png)
+
+![Image 2](images/weighted.png)
